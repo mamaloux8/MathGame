@@ -1,0 +1,173 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (sfmlTest.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  imgui-SFML.cpp
+C:\Users\Reycolas\source\repos\sfmlTest\imgui\imgui-SFML.cpp(571,65): warning C4244: 'argument' : conversion de 'const unsigned int' en 'float', perte possible de données
+C:\Users\Reycolas\source\repos\sfmlTest\imgui\imgui-SFML.cpp(571,47): warning C4244: 'argument' : conversion de 'const unsigned int' en 'float', perte possible de données
+C:\Users\Reycolas\source\repos\sfmlTest\imgui\imgui-SFML.cpp(574,67): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\Reycolas\source\repos\sfmlTest\imgui\imgui-SFML.cpp(574,48): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  MathGame.cpp
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(35,85): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(48,16): warning C4244: '-=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(94,131): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(106,149): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(114,90): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(114,64): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(121,94): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(121,66): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(133,97): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(154,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(173,87): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(173,63): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(182,86): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(182,62): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(192,120): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(201,132): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(255,34): warning C4101: 'e' : variable locale non référencée
+C:\Users\Reycolas\source\repos\sfmlTest\MathGame.cpp(259,30): warning C4101: 'e' : variable locale non référencée
+  maths.cpp
+C:\Users\Reycolas\source\repos\sfmlTest\maths.cpp(185,80): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\maths.cpp(185,46): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\maths.cpp(196,83): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Reycolas\source\repos\sfmlTest\maths.cpp(196,45): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+  ui.cpp
+  Génération de code en cours...
+  sfmlTest.vcxproj -> C:\Users\Reycolas\source\repos\sfmlTest\x64\Debug\MathGame.exe
